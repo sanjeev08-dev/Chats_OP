@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "573348344932",
+    "firebase_url": "https://chats-op-4e337.firebaseio.com",
+    "project_id": "chats-op-4e337",
+    "storage_bucket": "chats-op-4e337.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573348344932:android:7df0f6f115000a348fdb71",
+        "android_client_info": {
+          "package_name": "com.example.chatsop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573348344932-4ajsk8g9qrhl9les5di24lhi7s8l04cn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatsop",
+            "certificate_hash": "345ad9de487d5efe4e63aa278e3b081d5b488b08"
+          }
+        },
+        {
+          "client_id": "573348344932-b0a5fv3mqv3c3o1g1ndsqv1hf3gnu23d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatsop",
+            "certificate_hash": "f82334b57b62d9830295519ee4781d8ed410c8b1"
+          }
+        },
+        {
+          "client_id": "573348344932-htslis4l8ji7bb5b1img2ordejc75jfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHaSnbFZk8rDwuzeuxn6EYG9qCLtpImY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573348344932-htslis4l8ji7bb5b1img2ordejc75jfe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
